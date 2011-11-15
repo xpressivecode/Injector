@@ -44,6 +44,9 @@ TestResults/
 *.rar
 *.tar
 *.zip
+packages/
+*.testsettings
+Performance.psess
 
 # Logs and databases #
 ######################
